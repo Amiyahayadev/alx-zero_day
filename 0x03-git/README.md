@@ -1,1 +1,1 @@
-This is a Foundation project on Git & Github
+This is a Foundation project on Git
