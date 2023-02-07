@@ -1,1 +1,1 @@
-This is a foundation project on git & github
+My first readme
